@@ -1,0 +1,20 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Natural Language Processing
+nltk
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+
+# Jupyter Notebook
+jupyter
+ipykernel
